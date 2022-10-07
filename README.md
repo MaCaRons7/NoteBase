@@ -1,2 +1,0 @@
-# NoteBase
-# Save my notes
