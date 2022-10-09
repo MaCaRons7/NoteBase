@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数学建模/9种时间序列预测模型介绍 - 知乎.md",
+            "file": "CS/算法/优化算法设计/优化算法设计.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学建模/9种时间序列预测模型介绍 - 知乎.md"
+                "file": "CS/算法/优化算法设计/优化算法设计.md"
               }
             }
           },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学建模/9种时间序列预测模型介绍 - 知乎.md",
+                "file": "CS/算法/优化算法设计/优化算法设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学建模/9种时间序列预测模型介绍 - 知乎.md",
+                "file": "CS/算法/优化算法设计/优化算法设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8426b3c36117f672",
+  "active": "1bb99965a59f2cb6",
   "lastOpenFiles": [
+    "CS/数据分析/大数据分析课程/大数据分析笔记（基于Python）.md",
+    "数学建模/9种时间序列预测模型介绍 - 知乎.md",
     "CS/编程语言/Python笔记.md",
-    "CS/数据可视化/数据可视化笔记（基于Python）.md",
     "运筹优化/优化算法综述(以TSP为例)/旅行商(TSP)问题求解算法合集 - 知乎.md",
     "运筹优化/优化算法综述(以TSP为例)/未命名.md",
     "CS/编程语言/未命名.md",
     "CS/编程语言/C_Sharp笔记.md",
     "README.md",
-    "CS/数据可视化/NoteRef_Saving/image-20220920091718027.png",
-    "MATLAB基础知识与数学建模.md",
-    "CS/未命名.md"
+    "CS/数据分析/大数据分析课程/NoteRef_Saving/image-20220920091718027.png",
+    "MATLAB基础知识与数学建模.md"
   ]
 }
