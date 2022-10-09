@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb99965a59f2cb6",
+        "id": "9856478334bb2c48",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -129,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bb99965a59f2cb6",
+  "active": "8426b3c36117f672",
   "lastOpenFiles": [
+    "CS/算法/优化算法设计/优化算法设计.md",
     "CS/数据分析/大数据分析课程/大数据分析笔记（基于Python）.md",
     "数学建模/9种时间序列预测模型介绍 - 知乎.md",
     "CS/编程语言/Python笔记.md",
@@ -139,7 +140,6 @@
     "CS/编程语言/未命名.md",
     "CS/编程语言/C_Sharp笔记.md",
     "README.md",
-    "CS/数据分析/大数据分析课程/NoteRef_Saving/image-20220920091718027.png",
-    "MATLAB基础知识与数学建模.md"
+    "CS/数据分析/大数据分析课程/NoteRef_Saving/image-20220920091718027.png"
   ]
 }
